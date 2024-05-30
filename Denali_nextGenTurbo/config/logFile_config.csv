@@ -1,0 +1,8 @@
+Set Test Time,60000
+Firmware Version,01.00.01.0001
+Process Name,Configure
+Job,LIVENETWORK
+SIMAPN,Sensiwatch.cxn
+Show Fail,False
+,True
+Path Log,C:\ProgramData\Sensitech\AppData\TurboValidate\3.8.2204.2802\ConfigXML\LIVENETWORK\

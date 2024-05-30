@@ -1,0 +1,16 @@
+Mode,Operation
+,Debug
+Employee ID,62074
+Process Name,FCT8
+Station Name,TPPSST08
+Computer Name,SST-PC-FCT8
+Database Name,TPP_PRISM
+,TPR_PRISM
+Database Server TPP,192.168.11.38
+Database Server TPR,192.168.10.19
+Check Process Before,FALSE
+,TRUE
+Process Before,ยังไม่ผ่าน
+Digit SN,10
+Up Fail To Prism,TRUE
+,FALSE

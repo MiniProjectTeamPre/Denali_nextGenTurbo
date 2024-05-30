@@ -1,0 +1,16 @@
+Name Dmm,U3606B
+,IDM-8341
+Comport Relay,COM98
+Delay Wait ExeCute,2500
+Battery 1 (FG),FG-63T305-LF&FG-63T306-LF&FG-63T307-LF&FG-64T151-LF
+Battery 1 (Min),4.50
+Battery 1 (Max),4.95
+Battery 2 (FG),FG-63T334-LF&FG-63T335-LF&FG-63T336-LF&FG-64T152-LF
+Battery 2 (Min),4.50
+Battery 2 (Max),5.5
+Battery 3 (FG),FG-62T245-LF
+Battery 3 (Min),6.96
+Battery 3 (Max),7.2
+Battery 4 (FG),xxx
+Battery 4 (Min),3.2
+Battery 4 (Max),3.4
